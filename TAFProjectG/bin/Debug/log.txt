@@ -1,0 +1,46 @@
+2/26/2018 10:15:30 AM: go to login page
+2/26/2018 10:19:14 AM: go to login page
+2/26/2018 10:19:14 AM: TAT18 set as username
+2/26/2018 10:19:14 AM: tat18pass set as password
+2/26/2018 10:19:14 AM: TAT18: is logged in user
+2/26/2018 10:24:03 AM: go to http://icerow.com/
+2/26/2018 10:24:03 AM: TAT18 set as username
+2/26/2018 10:24:03 AM: tat18pass set as password
+2/26/2018 10:24:04 AM: Go to http://icerow.com/issues/new
+2/26/2018 10:24:04 AM: DailyTest is issue name
+2/26/2018 10:24:05 AM: #199 is issue identifier
+2/26/2018 10:24:05 AM: Go to http://icerow.com/activity
+2/26/2018 10:30:12 AM: go to http://icerow.com/
+2/26/2018 10:30:13 AM: TAT18 set as username
+2/26/2018 10:30:13 AM: tat18pass set as password
+2/26/2018 10:30:14 AM: Go to http://icerow.com/projects/new
+2/26/2018 10:30:14 AM: N3Z3 is name of project
+2/26/2018 10:30:14 AM: N3 is project identifier
+2/26/2018 10:31:11 AM: go to http://icerow.com/
+2/26/2018 10:31:11 AM: TAT18 set as username
+2/26/2018 10:31:11 AM: tat18pass set as password
+2/26/2018 10:31:12 AM: Go to http://icerow.com/issues/new
+2/26/2018 10:31:12 AM: XCT70V is issue name
+2/26/2018 10:31:13 AM: #200 is issue identifier
+2/26/2018 10:31:13 AM: Go to http://icerow.com/activity
+2/26/2018 10:40:07 AM: go to http://icerow.com/
+2/26/2018 10:40:07 AM: TAT18 set as username
+2/26/2018 10:40:08 AM: tat18pass set as password
+2/26/2018 10:40:08 AM: Go to http://icerow.com/projects/new
+2/26/2018 10:40:08 AM: 7WX5 is name of project
+2/26/2018 10:40:08 AM: LL is project identifier
+2/26/2018 12:13:30 PM: go to http://icerow.com/
+2/26/2018 12:13:30 PM: TAT18 set as username
+2/26/2018 12:13:30 PM: tat18pass set as password
+2/26/2018 12:13:31 PM: TAT18: is logged in user
+2/26/2018 12:15:45 PM: go to http://icerow.com/
+2/26/2018 12:15:45 PM: TAT18 set as username
+2/26/2018 12:15:45 PM: tat18pass set as password
+2/26/2018 12:15:46 PM: TAT18: is logged in user
+2/26/2018 12:26:13 PM: 
+chrome is present browser
+2/26/2018 12:26:17 PM: 
+2/26/2018 12:26:18 PM: go to http://icerow.com/
+2/26/2018 12:26:18 PM: TAT18 set as username
+2/26/2018 12:26:18 PM: tat18pass set as password
+2/26/2018 12:26:19 PM: TAT18: is logged in user

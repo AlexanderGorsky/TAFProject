@@ -1,0 +1,9 @@
+2/26/2018 2:00:46 PM:  is present browser
+2/26/2018 2:02:47 PM:  is present browser
+2/26/2018 2:03:20 PM:  is present browser
+2/26/2018 2:05:31 PM:  is present browser
+2/26/2018 2:06:39 PM: chrome is present browser
+2/26/2018 2:06:46 PM: go to http://icerow.com/
+2/26/2018 2:06:46 PM: TAT18 set as username
+2/26/2018 2:06:46 PM: tat18pass set as password
+2/26/2018 2:06:46 PM: TAT18: is logged in user

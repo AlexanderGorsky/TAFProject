@@ -1,0 +1,14 @@
+2018-02-27 12:02:11,222  INFO  login test started
+2018-02-27 12:02:13,312  INFO  Go to http://icerow.com/
+2018-02-27 12:02:13,390  INFO  TAT18 sent to username field
+2018-02-27 12:02:13,462  INFO  tat18pass sent to password field
+2018-02-27 12:02:14,100  INFO  TAT18 is logged in user
+2018-02-27 12:08:05,606  INFO  Go to http://icerow.com/
+2018-02-27 12:08:05,695  INFO  TAT18 sent to username field
+2018-02-27 12:08:05,767  INFO  tat18pass sent to password field
+2018-02-27 12:11:49,799  INFO  Go to http://icerow.com/
+2018-02-27 12:11:49,891  INFO  TAT18 sent to username field
+2018-02-27 12:11:49,958  INFO  tat18pass sent to password field
+2018-02-27 12:11:52,484  INFO  Go to http://icerow.com/issues/new
+2018-02-27 12:11:52,565  INFO  MWHQ32 sent to issue name field
+2018-02-27 12:11:54,036  INFO  #272 is issue identifier

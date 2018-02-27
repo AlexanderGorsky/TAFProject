@@ -1,0 +1,37 @@
+2018-02-26 15:50:41,940  INFO  Hurray!
+2018-02-26 15:50:42,458  INFO  go to http://icerow.com/
+2018-02-26 15:51:36,974  INFO  IT WORKS!
+2018-02-26 15:51:37,507  INFO  go to http://icerow.com/
+2018-02-26 15:52:18,659  INFO  IT WORKS!
+2018-02-26 15:52:43,595  INFO  IT WORKS!
+2018-02-26 15:52:54,220  INFO  IT WORKS!
+2018-02-26 15:54:22,326  INFO  IT WORKS!
+2018-02-26 15:58:44,256  INFO  IT WORKS!
+2018-02-26 15:58:44,879  INFO  go to http://icerow.com/
+2018-02-26 15:59:41,008  INFO  IT WORKS!
+2018-02-26 15:59:41,873  INFO  go to http://icerow.com/
+2018-02-26 16:01:40,395  INFO  IT WORKS!
+2018-02-26 16:36:28,488  INFO  IT WORKS!
+2018-02-26 16:37:44,371  INFO  login test started
+2018-02-26 16:42:52,310  INFO  login test started
+2018-02-26 16:42:53,880  INFO  Go to http://icerow.com/
+2018-02-26 16:42:53,881  INFO  Opened login page
+2018-02-26 16:42:53,962  INFO  TAT18 sent to username field
+2018-02-26 16:42:54,033  INFO  tat18pass sent to password field
+2018-02-26 16:42:54,545  INFO  Element (id = 0.5193697101205741-1) is logged in user
+2018-02-26 16:45:53,985  INFO  Go to http://icerow.com/
+2018-02-26 16:45:54,075  INFO  TAT18 sent to username field
+2018-02-26 16:45:54,142  INFO  tat18pass sent to password field
+2018-02-26 16:45:55,849  INFO  Go to http://icerow.com/issues/new
+2018-02-26 16:45:55,926  INFO  0SP3LP sent to issue name field
+2018-02-26 16:45:57,119  INFO  #218 is issue identifier
+2018-02-26 16:59:47,846  INFO  login test started
+2018-02-26 16:59:48,956  INFO  Go to http://icerow.com/
+2018-02-26 16:59:49,038  INFO  TAT18 sent to username field
+2018-02-26 16:59:49,106  INFO  tat18pass sent to password field
+2018-02-26 16:59:49,659  INFO  Element (id = 0.24271729217432636-1) is logged in user
+2018-02-26 17:01:43,580  INFO  login test started
+2018-02-26 17:01:44,657  INFO  Go to http://icerow.com/
+2018-02-26 17:01:44,735  INFO  TAT18 sent to username field
+2018-02-26 17:01:44,806  INFO  tat18pass sent to password field
+2018-02-26 17:01:45,692  INFO  TAT18 is logged in user
