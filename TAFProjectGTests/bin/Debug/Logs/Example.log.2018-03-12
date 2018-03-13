@@ -1,0 +1,112 @@
+2018-03-12 14:24:54,116  INFO  login test started
+2018-03-12 14:24:54,998  INFO  Go to http://icerow.com/
+2018-03-12 14:24:55,078  INFO  Go to http://icerow.com/
+2018-03-12 14:24:55,145  INFO  TAT18 sent to username field
+2018-03-12 14:24:55,219  INFO  TAT18 sent to username field
+2018-03-12 14:24:55,281  INFO  Go to http://icerow.com/
+2018-03-12 14:24:55,284  INFO  tat18pass sent to password field
+2018-03-12 14:24:55,376  INFO  tat18pass sent to password field
+2018-03-12 14:24:55,412  INFO  TAT18 sent to username field
+2018-03-12 14:24:55,499  INFO  tat18pass sent to password field
+2018-03-12 14:24:56,182  INFO  TAT18 is logged in user
+2018-03-12 14:24:56,224  INFO  Go to http://icerow.com/
+2018-03-12 14:24:56,303  INFO  TAT18 sent to username field
+2018-03-12 14:24:56,411  INFO  tat18pass sent to password field
+2018-03-12 14:24:56,726  INFO  Go to http://icerow.com/issues/new
+2018-03-12 14:24:56,948  INFO  QRRF2X sent to issue name field
+2018-03-12 14:24:57,097  INFO  TAT18 is logged in user
+2018-03-12 14:24:58,646  INFO  #724 is issue identifier
+2018-03-12 14:25:00,254  INFO  login test started
+2018-03-12 14:25:00,980  INFO  Go to http://icerow.com/
+2018-03-12 14:25:01,015  INFO  login test started
+2018-03-12 14:25:01,159  INFO  TAT18 sent to username field
+2018-03-12 14:25:01,274  INFO  tat18pass sent to password field
+2018-03-12 14:25:01,824  INFO  TAT18 is logged in user
+2018-03-12 14:25:02,212  INFO  Go to http://icerow.com/
+2018-03-12 14:25:02,282  INFO  TAT18 sent to username field
+2018-03-12 14:25:02,347  INFO  tat18pass sent to password field
+2018-03-12 14:25:02,878  INFO  TAT18 is logged in user
+2018-03-12 14:25:02,989  INFO  login test started
+2018-03-12 14:25:03,627  INFO  Go to http://icerow.com/
+2018-03-12 14:25:03,694  INFO  TAT18 sent to username field
+2018-03-12 14:25:03,764  INFO  tat18pass sent to password field
+2018-03-12 14:25:04,209  INFO  TAT18 is logged in user
+2018-03-12 15:00:10,880  INFO  login test started
+2018-03-12 15:00:11,457  INFO  Go to http://icerow.com/
+2018-03-12 15:00:11,531  INFO  TAT18 sent to username field
+2018-03-12 15:00:11,605  INFO  tat18pass sent to password field
+2018-03-12 15:00:12,149  INFO  TAT18 is logged in user
+2018-03-12 15:15:59,165  INFO  Go to http://icerow.com/
+2018-03-12 15:15:59,260  INFO  TAT18 sent to username field
+2018-03-12 15:15:59,333  INFO  tat18pass sent to password field
+2018-03-12 15:16:00,544  INFO  Go to http://icerow.com/issues/new
+2018-03-12 15:16:00,632  INFO  VF0KCT sent to issue name field
+2018-03-12 15:16:01,768  INFO  #729 is issue identifier
+2018-03-12 15:16:17,067  INFO  Go to http://icerow.com/
+2018-03-12 15:16:17,163  INFO  TAT18 sent to username field
+2018-03-12 15:16:17,235  INFO  tat18pass sent to password field
+2018-03-12 15:16:18,476  INFO  Go to http://icerow.com/issues/new
+2018-03-12 15:16:18,561  INFO  PHKSGP sent to issue name field
+2018-03-12 15:16:21,857  INFO  #730 is issue identifier
+2018-03-12 15:22:07,891  INFO  Go to http://icerow.com/
+2018-03-12 15:22:07,981  INFO  TAT18 sent to username field
+2018-03-12 15:22:08,051  INFO  tat18pass sent to password field
+2018-03-12 15:23:15,288  INFO  Go to http://icerow.com/
+2018-03-12 15:23:15,382  INFO  TAT18 sent to username field
+2018-03-12 15:23:15,455  INFO  tat18pass sent to password field
+2018-03-12 15:23:51,141  INFO  Go to http://icerow.com/
+2018-03-12 15:23:51,232  INFO  TAT18 sent to username field
+2018-03-12 15:23:51,304  INFO  tat18pass sent to password field
+2018-03-12 15:25:38,544  INFO  Go to http://icerow.com/
+2018-03-12 15:25:38,633  INFO  TAT18 sent to username field
+2018-03-12 15:25:38,710  INFO  tat18pass sent to password field
+2018-03-12 15:32:32,700  INFO  Go to http://icerow.com/
+2018-03-12 15:32:32,843  INFO  TAT18 sent to username field
+2018-03-12 15:32:32,924  INFO  tat18pass sent to password field
+2018-03-12 15:32:34,391  INFO  Go to http://icerow.com/issues/new
+2018-03-12 15:32:34,493  INFO  5Q2_PG sent to issue name field
+2018-03-12 15:32:35,891  INFO  #731 is issue identifier
+2018-03-12 15:33:08,245  INFO  login test started
+2018-03-12 15:33:08,824  INFO  login test started
+2018-03-12 15:33:09,900  INFO  Go to http://icerow.com/
+2018-03-12 15:33:10,066  INFO  Go to http://icerow.com/
+2018-03-12 15:33:10,223  INFO  Go to http://icerow.com/
+2018-03-12 15:33:10,283  INFO  TAT18 sent to username field
+2018-03-12 15:33:10,445  INFO  TAT18 sent to username field
+2018-03-12 15:33:10,445  INFO  tat18pass sent to password field
+2018-03-12 15:33:10,583  INFO  TAT18 sent to username field
+2018-03-12 15:33:10,646  INFO  tat18pass sent to password field
+2018-03-12 15:33:10,821  INFO  tat18pass sent to password field
+2018-03-12 15:33:11,530  INFO  TAT18 is logged in user
+2018-03-12 15:33:11,808  INFO  TAT18 is logged in user
+2018-03-12 15:33:12,689  INFO  Go to http://icerow.com/
+2018-03-12 15:33:12,921  INFO  TAT18 sent to username field
+2018-03-12 15:33:13,195  INFO  tat18pass sent to password field
+2018-03-12 15:33:15,255  INFO  Go to http://icerow.com/issues/new
+2018-03-12 15:33:15,660  INFO  N9LKM5 sent to issue name field
+2018-03-12 15:33:16,956  INFO  #732 is issue identifier
+2018-03-12 15:33:17,347  INFO  login test started
+2018-03-12 15:33:18,004  INFO  login test started
+2018-03-12 15:33:18,817  INFO  Go to http://icerow.com/
+2018-03-12 15:33:19,225  INFO  TAT18 sent to username field
+2018-03-12 15:33:19,487  INFO  tat18pass sent to password field
+2018-03-12 15:33:19,857  INFO  Go to http://icerow.com/
+2018-03-12 15:33:20,115  INFO  TAT18 sent to username field
+2018-03-12 15:33:20,277  INFO  tat18pass sent to password field
+2018-03-12 15:33:20,297  INFO  TAT18 is logged in user
+2018-03-12 15:33:21,043  INFO  login test started
+2018-03-12 15:33:21,296  INFO  TAT18 is logged in user
+2018-03-12 15:33:21,747  INFO  Go to http://icerow.com/
+2018-03-12 15:33:21,909  INFO  TAT18 sent to username field
+2018-03-12 15:33:21,990  INFO  tat18pass sent to password field
+2018-03-12 15:33:22,543  INFO  TAT18 is logged in user
+2018-03-12 15:47:45,651  INFO  login test started
+2018-03-12 15:47:46,435  INFO  Go to http://icerow.com/
+2018-03-12 15:47:46,523  INFO  TAT18TEST sent to username field
+2018-03-12 15:47:46,599  INFO  tat18test sent to password field
+2018-03-12 15:47:47,337  INFO  TAT18TEST is logged in user
+2018-03-12 15:48:13,299  INFO  login test started
+2018-03-12 15:48:14,648  INFO  Go to http://icerow.com/
+2018-03-12 15:48:14,733  INFO  TAT18 sent to username field
+2018-03-12 15:48:14,807  INFO  tat18pass sent to password field
+2018-03-12 15:48:15,275  INFO  TAT18 is logged in user

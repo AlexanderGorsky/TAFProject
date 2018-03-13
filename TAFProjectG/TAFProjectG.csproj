@@ -61,14 +61,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="APITests.cs" />
     <Compile Include="Driver\DriverInstance.cs" />
+    <Compile Include="Driver\DriversContainer.cs" />
     <Compile Include="Pages\ActivityPage.cs" />
     <Compile Include="Pages\AddIssuePage.cs" />
     <Compile Include="Pages\AddProjectPage.cs" />
+    <Compile Include="Pages\BaseTest.cs" />
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Steps\Steps.cs" />
-    <Compile Include="Tests\Tests.cs" />
     <Compile Include="Utils\Logger.cs" />
     <Compile Include="Utils\RandomGenerator.cs" />
   </ItemGroup>

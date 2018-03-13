@@ -1,13 +1,13 @@
-﻿using log4net.Repository.Hierarchy;
+﻿using System.Net.Http;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.PageObjects;
-using TAFProjectG.Utils;
 
 namespace TAFProjectG.Pages
 {
 	public class LoginPage
 	{
-		private const string BaseUrl = "http://icerow.com/";//protected abstract prop
+		private const string BaseUrl = "http://icerow.com/";
 
 		[FindsBy(How = How.Id, Using = "username")]
 		private IWebElement inputLogin;
@@ -21,33 +21,48 @@ namespace TAFProjectG.Pages
 		[FindsBy(How = How.XPath, Using = "//*[@id='loggedas']/a")]
 		private IWebElement loggedInUser;
 
-		private IWebDriver driver;
 		
+		public IWebDriver driver;
 
 		public LoginPage(IWebDriver driver)
 		{
+			
 			this.driver = driver;
-			PageFactory.InitElements(this.driver, this);
+			PageFactory.InitElements(driver, this);
 		}
 
-		public void OpenPage()//is it need?
+		public void OpenPage(IWebDriver driver)
 		{
-		
 			driver.Navigate().GoToUrl(BaseUrl);
-			
 			Logger.Log.Info($"Go to {BaseUrl}");
 		}
 
-		public LoginPage Login(string username, string password)
+		public HttpRequestMessage GetResponseLoginPage()
+		{
+			HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, BaseUrl);
+			return request;
+		}
+
+		public void FillUsernameField(string username)
 		{
 			inputLogin.SendKeys(username);
 			Logger.Log.Info($"{username} sent to username field");
-			inputPassword.SendKeys(password);
-			Logger.Log.Info($"{password} sent to password field");
-			loginButton.Click();
-			return this;
 		}
 
+		public void FillPasswordField(string password)
+		{
+			inputPassword.SendKeys(password);
+			Logger.Log.Info($"{password} sent to password field");
+		}
+
+
+		public void ClickButtonToLogIn()
+		{
+			Actions action = new Actions(driver);
+			action.MoveToElement(loginButton);
+			loginButton.Click();
+		}
+		
 		public string GetLoggedInUserName()
 		{
 			Logger.Log.Info($"{loggedInUser.Text} is logged in user");

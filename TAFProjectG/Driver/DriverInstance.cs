@@ -1,35 +1,33 @@
-﻿using OpenQA.Selenium;
+﻿using System.Configuration;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
-using TAFProjectG.Utils;
 
 namespace TAFProjectG.Driver
 {
-	public class DriverInstance//rename to DriverFactory
+	public class DriverInstance
 	{
-		private static IWebDriver driver;
-		private DriverInstance() { }
-
-		public static IWebDriver GetInstance(string appSetting)
+		public IWebDriver GetInstance(string appSetting, IWebDriver driver)
 		{
-			//do enums to choose browser
-
-			if (driver != null) return driver;
-			if(appSetting == "chrome")
-			driver = new ChromeDriver();
-			if (appSetting == "firefox")
+			//if (driver != null) return driver;
+			switch (appSetting)
 			{
-				driver = new FirefoxDriver();
+				case "chrome":
+					driver = new ChromeDriver();
+					break;
+				case "firefox":
+					driver = new FirefoxDriver();
+					break;
 			}
 			//driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(30));
 			driver.Manage().Window.Maximize();
 			return driver;
 		}
 
-		public static void CloseBrowser()
-		{
-			driver.Quit();
-			driver = null;
-		}
+		//public void CloseBrowser(IWebDriver driver)
+		//{
+		//	driver.Quit();
+		//	driver = null;
+		//}
 	}
 }

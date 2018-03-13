@@ -15,7 +15,7 @@ c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAF
 c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\bin\Debug\WebDriver.Support.xml
 c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\obj\Debug\TAFProjectG.dll
 c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\obj\Debug\TAFProjectG.pdb
-c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\obj\Debug\TAFProjectG.csprojResolveAssemblyReference.cache
 c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\bin\Debug\log4net.dll
 c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\bin\Debug\log4net.xml
 c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\bin\Debug\TAFProjectG.dll.config
+C:\Users\Aliaksandr_Horski\documents\visual studio 2015\Projects\TAFProjectG\TAFProjectG\obj\Debug\TAFProjectG.csprojResolveAssemblyReference.cache

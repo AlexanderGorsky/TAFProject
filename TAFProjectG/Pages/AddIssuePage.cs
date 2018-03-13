@@ -1,7 +1,6 @@
-﻿using System;
+﻿using System.Net.Http;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
-using TAFProjectG.Utils;
 
 namespace TAFProjectG.Pages
 {
@@ -32,7 +31,6 @@ namespace TAFProjectG.Pages
 		{
 			driver.Navigate().GoToUrl(BaseUrl);
 			Logger.Log.Info($"Go to {BaseUrl}");
-
 		}
 
 		public string CreateNewIssue(string issueName)
@@ -41,12 +39,18 @@ namespace TAFProjectG.Pages
 			Logger.Log.Info($"{issueName} sent to issue name field");
 			newIssueCommitButton.Click();
 			Logger.Log.Info($"{GetIssueIdentifier()} is issue identifier");
-
 			return GetIssueIdentifier();
+		}
+
+		public HttpRequestMessage GetResponseAddIssuePage()
+		{
+			HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, BaseUrl + GetIssueIdentifier().Substring(1));
+			return request;
 		}
 
 		public string GetIssueIdentifier()
 		{
+
 			return newIssueNumber.Text;
 		}
 
