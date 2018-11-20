@@ -32,3 +32,25 @@
 2018-03-13 10:09:59,617  INFO  TAT18 sent to username field
 2018-03-13 10:09:59,701  INFO  tat18pass sent to password field
 2018-03-13 10:10:00,230  INFO  TAT18 is logged in user
+2018-11-20 13:36:33,680  INFO  login test started
+2018-11-20 13:36:35,499  INFO  Go to http://icerow.com/
+2018-11-20 13:36:35,599  INFO  TAT18 sent to username field
+2018-11-20 13:36:35,672  INFO  tat18pass sent to password field
+2018-11-20 13:38:23,977  INFO  login test started
+2018-11-20 13:38:26,582  INFO  Go to http://icerow.com/
+2018-11-20 13:38:26,711  INFO  trtest sent to username field
+2018-11-20 13:38:26,786  INFO  trtest sent to password field
+2018-11-20 13:38:27,409  INFO  trtest is logged in user
+2018-11-20 13:40:41,345  INFO  Go to http://icerow.com/
+2018-11-20 13:40:41,448  INFO  trtest sent to username field
+2018-11-20 13:40:41,512  INFO  trtest sent to password field
+2018-11-20 13:40:42,008  INFO  Go to http://icerow.com/issues/new
+2018-11-20 13:40:59,261  INFO  Go to http://icerow.com/
+2018-11-20 13:40:59,363  INFO  trtest sent to username field
+2018-11-20 13:40:59,430  INFO  trtest sent to password field
+2018-11-20 13:41:12,737  INFO  Go to http://icerow.com/
+2018-11-20 13:41:12,835  INFO  trtest sent to username field
+2018-11-20 13:41:12,891  INFO  trtest sent to password field
+2018-11-20 13:41:14,356  INFO  Go to http://icerow.com/issues/new
+2018-11-20 13:41:14,442  INFO  293D6R sent to issue name field
+2018-11-20 13:41:16,329  INFO  #1331 is issue identifier
